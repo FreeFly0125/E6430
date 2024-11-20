@@ -1,5 +1,5 @@
 # ecommerce-frontend
-React+Redux frontend for eCommerce project. 
+React+Redux frontend for eCommerce project with Django. 
 
 Features
 --------
